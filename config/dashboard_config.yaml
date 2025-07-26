@@ -1,0 +1,20 @@
+dashboard:
+  title: "Smart Personal Finance Dashboard"
+  theme: "light"
+  
+layout:
+  sidebar_width: 300
+  chart_height: 400
+  
+colors:
+  primary: "#3498db"
+  secondary: "#e74c3c"
+  success: "#27ae60"
+  warning: "#f39c12"
+  
+categories:
+  "Food & Dining": "#FF6B6B"
+  "Transportation": "#4ECDC4"
+  "Shopping": "#45B7D1"
+  "Entertainment": "#96CEB4"
+  "Bills & Utilities": "#FFEAA7"

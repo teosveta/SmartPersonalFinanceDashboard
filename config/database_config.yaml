@@ -1,0 +1,10 @@
+database:
+  type: "sqlite"
+  name: "finance_dashboard.db"
+  path: "data/"
+  echo: false
+
+connection:
+  pool_size: 5
+  max_overflow: 10
+  pool_timeout: 30
