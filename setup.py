@@ -17,7 +17,7 @@ setup(
         "pyyaml>=6.0.1",
         "pytest>=7.4.0"
     ],
-    author="AI/ML Data Engineer",
+    author="Teosveta Velkova",
     description="Smart Personal Finance Dashboard with Predictive Analytics",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
